@@ -47,7 +47,7 @@ Baseline-only benchmarks (no data augmentation):
 
 ### **Datasets (4 total)**
 - **ESC-10**
-- **SpeechCommands**
+- **SpeechCommands-V1**
 - **GTZAN**
 - **UrbanSound8K**
 
