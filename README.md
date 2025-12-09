@@ -6,7 +6,7 @@
 
 ## 🔍 Overview
 
-Machine unlearning aims to selectively erase the influence of specific training samples or classes from a model **without full retraining**, which is often computationally expensive.  
+Machine unlearning aims to selectively erase the influence of specific training classes from a model **without full retraining**, which is often computationally expensive.  
 While the field has explored unlearning methods extensively, **the impact of audio data augmentation on unlearning dynamics has remained unstudied** — until now.
 
 This work provides the **first large-scale, multi-model, multi-method investigation** of how standard audio augmentations affect both unlearning performance and collateral damage on retained data.
