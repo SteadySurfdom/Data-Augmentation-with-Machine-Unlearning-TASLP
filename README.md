@@ -2,11 +2,6 @@
 
 ### Submitted to IEEE Transactions on Audio, Speech, and Language Processing (TASLP)
 
-This repository contains supplementary material, baseline results, and experimental resources for our paper:  
-**"How Audio Data Augmentation Affects Machine Unlearning in Modern Audio Models."**
-
-A shorter version of this study (single-model, no data-augmentation sweep) has been submitted to **ICASSP 2026** and is available in a separate repository.
-
 ---
 
 ## 🔍 Overview
