@@ -1,6 +1,10 @@
 # Does Audio Augmentation Aid Audio Unlearning? A Comprehensive Evaluation Across Methods
 
-### Submitted to IEEE Transactions on Audio, Speech, and Language Processing (TASLP)
+## 📄 Paper  
+**Does Audio Augmentation Aid Audio Unlearning? A Comprehensive Evaluation Across Methods**  
+*Moulik Gupta, Achyut Mani Tripathi, 2025 (Under Review at ICASSP 2026)*  
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](<assets/TASLP submission.pdf>) [![Journal](https://img.shields.io/badge/IEEE-TASLP-grey)]()
 
 ---
 
